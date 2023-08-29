@@ -1,0 +1,83 @@
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-block: 20px;
+}
+
+h2 {
+    color: #232E22;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+
+header {
+    background-color:#232E22;
+}
+
+body {
+    background-color: #232E22;
+    text-align: center;
+    font-family: "Georgia", serif;
+    color: #232E22;
+    margin-block: 20px;
+}
+
+main {
+    background-image: url(../images/matcha-latte.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 150vh;
+}
+
+#welcome-street13 { 
+    background-color:rgb(118, 136, 129, 0.6);
+    margin-block: 20px;
+    font-style: italic;
+}
+
+#about-matcha {
+    margin-block: 20px;
+}
+
+#about-us {
+    margin-block: 20px;
+}
+
+#about-matcha-bread {
+    background-color:rgb(118, 136, 129, 0.6);
+    margin-block: 20px;
+}
+
+img {
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0.6);
+}
+
+video {
+    margin-block: 20px;
+}
+
+footer {
+    color: #ffffff;
+    font-family: "Georgia", serif;
+    text-align: center;
+    margin-block: 10px;
+}
+
+/* Im testing out margins, think i over used <br> in html section,
+ would be happy to learn more about spacing, boarders, padding and margins going forward */
