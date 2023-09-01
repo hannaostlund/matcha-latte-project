@@ -52,7 +52,7 @@ main {
 
 #welcome-street13 { 
     background-color:rgb(118, 136, 129, 0.6);
-    margin-block: 20px;
+    padding: 20px;
     font-style: italic;
 }
 
@@ -67,6 +67,7 @@ main {
 #about-matcha-bread {
     background-color:rgb(118, 136, 129, 0.6);
     margin-block: 20px;
+    padding: 20px;
 }
 
 img {
